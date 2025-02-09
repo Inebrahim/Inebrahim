@@ -1,37 +1,29 @@
-## Hi there 👋
-
-<h1 align="center">Hi , I'm FaizanMunsaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Ineb Rahim 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/FaizanMunsaf"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Cloud+Computing;Hyper-Ledger-Fabric%20Private%20BlockChain;Generative+Ai;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/inebrahim"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Cloud+Computing;Hyper-Ledger-Fabric%20Private%20BlockChain;Generative+Ai;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## :sassy_man:  About me
-- Bachlor's in Computer Science from `Superior University` | Data Scientist (ML, DL, NLP) | Generative Ai | AIOPS | Cloud Computing
-- Intresting in `Data Scientist/Analyst`, Big Data, Cloud Computing, Generative Ai, Proficient in Data Science with focus on challenging businesses problems.
+- Masters in Artificial Intelligence from `Foundation University of Science and Technology`
+- Bachlor's in Bioinformatics (Computer Science) from `International Islamic University, Islamabad` | Artificial Intelligence | Machine Learning | Deep Learning | Data Science | Python Developer
+
+- Interested in `Data Scientist/Analyst`, Machine Learning, Deep Learning, Artificial Intelligence roles.
 
 ### Technology Stacks:
 
-**Core/In-depth/Practical Knowledge in:**
 
-1) Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.
-2) Data Manipulation with Pandas, Numpy, Streamlit etc.
-3) Data Visualization with Seaborn, Matplotlib.
-4) In-depth knowledge of Supervised and Unsupervised Machine Learning Models.
-5) In-depth knowledge of Statistics.
-6) Tensorflow 
-7) Pytorch.
-8) Cloud Knowledge in  Azure, AWS (EC2, S3 bucket, Sage Maker)
-9) Knowledge In AIOPS.
-10) Github 
-11) Data Version Control (DVC).
-12) Mlflow.
-13) Dockers.
-14) Generative Ai
-15) Tensorflow
-16) Keras
-17) MongoDB, Postgresql, Firebase Mysql , Sqlite
-18) Hyperledger-Fabric Private BlockChain
-19) Python | TypeScript | Javascript
+ **𝙆͟𝙚͟𝙮͟ ͟𝙎͟𝙠͟𝙞͟𝙡͟𝙡͟𝙨͟ ͟&͟ ͟𝙀͟𝙭͟𝙥͟𝙚͟𝙧͟𝙞͟𝙚͟𝙣͟𝙘͟𝙚͟ ͟**
+ 
+✔ 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 & 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 (CNN, Transfer Learning, Encoder-Decoder, PCA) 
+✔ 𝑷𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒗𝒆 𝑴𝒐𝒅𝒆𝒍𝒊𝒏𝒈 (Spam Classification, Airline Price Prediction, Tumor Detection) 
+✔ 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 & 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 (Python, TensorFlow, Keras, Scikit-learn, APIs, JavaScript) 
+
+**𝙋͟𝙧͟𝙤͟𝙟͟𝙚͟𝙘͟𝙩͟𝙨͟ ͟&͟ ͟𝘼͟𝙘͟𝙝͟𝙞͟𝙚͟𝙫͟𝙚͟𝙢͟𝙚͟𝙣͟𝙩͟𝙨͟ ͟**
+
+🔹 𝑻𝒖𝒎𝒐𝒓 𝑪𝒍𝒂𝒔𝒔𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 (CNN, EfficientNetB0, MobileVNetV2 – 96% accuracy) 
+🔹 𝑷𝒏𝒆𝒖𝒎𝒐𝒏𝒊𝒂 𝑫𝒆𝒕𝒆𝒄𝒕𝒊𝒐𝒏 (CNN – 89.9% accuracy) 
+🔹 𝑨𝒊𝒓𝒍𝒊𝒏𝒆 𝑷𝒓𝒊𝒄𝒆 𝑷𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒐𝒏 & 𝑺𝒑𝒂𝒎 𝑪𝒍𝒂𝒔𝒔𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏
+🔹 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 & 𝑫𝒆𝒑𝒍𝒐𝒚𝒆𝒅 𝑨𝑷𝑰𝒔 𝒇𝒐𝒓 𝑨𝑰 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔
 
 <br>
 
@@ -72,19 +64,17 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+&emsp;
+<a href="https://www.r-project.org/" target="_blank">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white">
+</a>
+
+&emsp;
+<a href="https://matplotlib.org/" target="_blank">
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=Matplotlib&logoColor=white">
+</a>
 </p>
 
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-</p>
 
  ### 👉 Software & Tools
  
@@ -110,11 +100,9 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    <a href="#"><img alt="Geeks For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -128,6 +116,8 @@
     <a href="#"><img alt="Jupyter-Lab" src="https://img.shields.io/badge/Jupyter-Lab-%2366595C.svg?&style=plastic&logo=Jupyter-Lab&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20ide-%232C2255.svg?&style=plastic&logo=PyCharm%20ide&logoColor=white" /></a>
+&emsp;
+<a href="https://colab.research.google.com/" target="_blank"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?&style=plastic&logo=Google-Colab&logoColor=white" /></a>
 </p>
 
  ### 👉 Operating Systems
@@ -151,10 +141,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/FaizanMunsaf/github-readme-stats"><img alt="Faizan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/inebrahim/github-readme-stats"><img alt="Ineb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=inebrahim&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaizanMunsaf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="FaizanMunsaf" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inebrahim&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="InebRahim" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -164,6 +154,6 @@
 <br/>
 
 -----
-Credits: FaizanMunsaf
+Credits: InebRahim
 
-Last Edited on: 08/09/2023
+Last Edited on: 02/10/2025
