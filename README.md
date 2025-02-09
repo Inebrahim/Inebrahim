@@ -68,9 +68,7 @@
   </a>
 
    &emsp;
-     <a href="https://matplotlib.org/" target="_blank">
-      <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C? 
-          style=plastic&logo=Matplotlib&logoColor=white">
+     <a href="https://matplotlib.org/" target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=Matplotlib&logoColor=white">
      </a>
 </p>
 
@@ -148,6 +146,6 @@
 <br/>
 
 -----
-Credits: InebRahim
+Credits: Ineb Rahim
 
 Last Edited on: 02/10/2025
